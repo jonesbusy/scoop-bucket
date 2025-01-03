@@ -3,7 +3,7 @@
   "description": "Plugin Modernizer Tool",
   "homepage": "https://github.com/jenkins-infra/plugin-modernizer-tool",
   "license": "MIT",
-  "url": "https://github.com/jenkins-infra/plugin-modernizer-tool/releases/download/1098.vd063a_8b_4fcdf/jenkins-plugin-modernizer-1106.va_176b_fde3c9e.jar",
+  "url": "https://github.com/jenkins-infra/plugin-modernizer-tool/releases/download/1106.va_176b_fde3c9e/jenkins-plugin-modernizer-1106.va_176b_fde3c9e.jar",
   "hash": "sha256:928853ce5b7aeeb0bd25acc629d6803fac7440028bc672c2f5dbafd3606ae78f",
   "suggest": {
     "JDK": [
